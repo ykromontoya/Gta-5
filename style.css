@@ -1,0 +1,11 @@
+.menu{
+    background-color: transparent;
+}
+
+.fondo{
+    background-image: url("img/los-santos-gta-v_1920x1080_xtrafondos.com.jpg");
+    background-size: cover;
+    background-position: top center;
+    padding: 20% 50% 20% 2%;
+    color: #8FF5E1 ;
+}
